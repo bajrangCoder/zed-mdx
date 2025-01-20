@@ -1,0 +1,13 @@
+id = "mdx"
+name = "mdx"
+description = "mdx language support."
+version = "0.1.0"
+schema_version = 1
+authors = ["Raunak Raj <bajrangcoders@gmail.com>"]
+repository = "https://github.com/bajrangCoder/zed-mdx"
+
+
+[grammars.markdown]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
+commit = "9a23c1a96c0513d8fc6520972beedd419a973539"
+path = "tree-sitter-markdown"
