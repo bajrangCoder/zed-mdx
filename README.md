@@ -2,7 +2,7 @@
 
 Good enough syntax highlighting for MDX in Zed using tree-sitter injection.
 
-This extension is based on this [post](https://phelipetls.github.io/posts/mdx-syntax-highlight-tree-sitter-nvim)
+This extension is based on this [post](https://phelipetls.github.io/posts/mdx-syntax-highlight-treesitter-nvim/)
 
 ## Installation
 
