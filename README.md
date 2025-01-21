@@ -1,8 +1,8 @@
 # Zed MDX
 
-Good enough syntax highlighting for MDX in Zed using tree-sitter injection.
+[MDX Language Server](https://github.com/mdx-js/mdx-analyzer/tree/main/packages/language-server) support with good enough syntax highlighting for MDX in Zed using tree-sitter injection.
 
-This extension is based on this [post](https://phelipetls.github.io/posts/mdx-syntax-highlight-treesitter-nvim/)
+The syntax highlighting part is based on this [post](https://phelipetls.github.io/posts/mdx-syntax-highlight-treesitter-nvim/)
 
 ## Installation
 
